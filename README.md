@@ -21,13 +21,13 @@ Total Customers: 18,484
 Total Profit: ₹12.08M
 
 🔹 Product-Level Insights
-🚲 Bikes dominate revenue — ₹28.32M out of ₹29.36M.
-📉 Clothing and Accessories generate minimal revenue (< ₹1M combined).
-🎯 Focused marketing on top sub-categories like Road Bikes and Mountain Bikes is crucial (together >80% of product sales).
+Bikes dominate revenue — ₹28.32M out of ₹29.36M.
+Clothing and Accessories generate minimal revenue (< ₹1M combined).
+Focused marketing on top sub-categories like Road Bikes and Mountain Bikes is crucial (together >80% of product sales).
 
 🔹 Customer Segmentation
-💵 Customers with ₹60K–₹80K yearly income contribute the most to sales (~₹11.11M).
-👩 Female customers make up slightly higher sales than males (50.46% vs 49.54%).
+Customers with ₹60K–₹80K yearly income contribute the most to sales (~₹11.11M).
+Female customers make up slightly higher sales than males (50.46% vs 49.54%).
 
 🔹 Regional Performance
 United States and Australia are top markets with >₹9M in sales each.
