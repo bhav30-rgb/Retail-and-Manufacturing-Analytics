@@ -14,10 +14,10 @@ I have created interactive dashboards using Excel, Power BI, and Tableau, backed
 
 📈 Key Insights Generated
 
-🔹 Overall Performance
-Total Sales: ₹29.36M
-Total Orders: 27,659
-Total Customers: 18,484
+🔹 Overall Performance: 
+Total Sales: ₹29.36M, 
+Total Orders: 27,659, 
+Total Customers: 18,484, 
 Total Profit: ₹12.08M
 
 🔹 Product-Level Insights: 
