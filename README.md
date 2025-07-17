@@ -41,11 +41,11 @@ Other countries like the UK, Germany, France, and Canada lag behind.
 Prioritize the ₹60K–₹80K income group with customized offers.
 Segment promotions by gender as both have nearly equal purchase behavior.
 
-3.Regional Strategy:
+3. Regional Strategy:
 Double down on strong markets (US, Australia).
 Launch regional campaigns to improve sales in Europe and Canada.
 
-4.Category Optimization:
+4. Category Optimization:
 Consider bundling accessories with bike sales to improve underperforming categories.
 Phase out or redesign clothing lines that aren’t contributing significantly to revenue.
 
