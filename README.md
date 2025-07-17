@@ -1,6 +1,6 @@
 🚴** Adventure Works Sales Analytics **
 
-📊 Project Overview
+📊 Project Overview: 
 This project involves end-to-end data analysis of the Adventure Works Cycles company, a global bicycle manufacturing and retail brand. The core objective is to derive actionable insights from historical sales data to help the company improve its revenue, market share, and product focus.
 I have created interactive dashboards using Excel, Power BI, and Tableau, backed by data cleaning in Excel and metric extraction using SQL.
 
