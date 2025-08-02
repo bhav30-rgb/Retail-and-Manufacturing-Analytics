@@ -50,6 +50,7 @@ Consider bundling accessories with bike sales to improve underperforming categor
 Phase out or redesign clothing lines that aren’t contributing significantly to revenue.
 
 📁 Folder Structure
+
 AW project final new.pbix --> Power BI dashboard
 Adventure_works final.twbx --> Tableau dashboard
 Adventure works project file.xlsx --> Excel Dashboard
