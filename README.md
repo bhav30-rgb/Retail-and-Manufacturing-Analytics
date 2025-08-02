@@ -49,3 +49,15 @@ Launch regional campaigns to improve sales in Europe and Canada.
 Consider bundling accessories with bike sales to improve underperforming categories.
 Phase out or redesign clothing lines that aren’t contributing significantly to revenue.
 
+📁 Folder Structure
+AW project final new.pbix --> Power BI dashboard
+Adventure_works final.twbx --> Tableau dashboard
+Adventure works project file.xlsx --> Excel Dashboard
+Project new.xlsx --> Cleaned dataset
+Adventure_works_SQLfile.sql --> SQL query scripts
+
+🔍 How to Use
+- Open `.pbix` file in Power BI Desktop
+- Open `.twbx` file in Tableau
+- Use `.sql` file to run analysis on your preferred SQL engine
+- Explore Excel dashboard via slicers and pivots
