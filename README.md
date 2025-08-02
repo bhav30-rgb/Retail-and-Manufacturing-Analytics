@@ -52,9 +52,13 @@ Phase out or redesign clothing lines that aren’t contributing significantly to
 📁 Folder Structure
 
 AW project final new.pbix --> Power BI dashboard
+
 Adventure_works final.twbx --> Tableau dashboard
+
 Adventure works project file.xlsx --> Excel Dashboard
+
 Project new.xlsx --> Cleaned dataset
+
 Adventure_works_SQLfile.sql --> SQL query scripts
 
 🔍 How to Use
